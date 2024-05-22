@@ -6,7 +6,8 @@
     "keywords": ["Laravel", "Preset", "Black"],
     "require": {
         "laravel/framework": "^10.0",
-        "laravel/legacy-factories": "^1.0"
+        "laravel/legacy-factories": "^1.0",
+        "laravel/ui": "^4.5"
 
     },
     "autoload": {
